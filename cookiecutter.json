@@ -1,0 +1,5 @@
+{
+  "product_name": "JUCE GUI App",
+  "project_name": "{{ cookiecutter.product_name|title|replace(' ', '')}}",
+  "cmake_project_name": "{{ cookiecutter.product_name|upper|replace(' ', '_')}}"
+}

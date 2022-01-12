@@ -1,0 +1,10 @@
+# IDE files
+
+.idea/
+
+# CMake
+
+cmake-build-debug/
+
+# OS files
+.DS_Store
